@@ -44,7 +44,8 @@ API 30 and run on it
 
 * [Kotlin](https://kotlinlang.org/) - Backend implementation 
 * [XML](https://www.xml.com/) - Layout designing
-* [Room](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase) - Cart management and favourites
+* [Room](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase) - Workout history
+
 
 ## Current pending work
 ```
