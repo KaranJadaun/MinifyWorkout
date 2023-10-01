@@ -4,6 +4,8 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
-
+    <style name="ToolBar_exercise_theme" parent="@style/ThemeOverlay.MaterialComponents.ActionBar">
+        <item name="colorControlNormal">@color/toolBarExercise</item>
+    </style>
     <style name="Theme.MinifyWorkout" parent="Base.Theme.MinifyWorkout" />
 </resources>
