@@ -47,6 +47,20 @@ API 30 and run on it
 * [Room](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase) - Workout history
 
 
+## Video Demo
+
+https://github.com/KaranJadaun/MinifyWorkout/assets/73349879/e142546c-4cad-4cde-94f7-ebcc41788303
+
+## Screenshots
+
+Home Page | Start Page | Workout Page | History Page | 
+--- | --- | --- | --- |
+![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/homePage.png?raw=true) | ![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/startPage.png?raw=true) | ![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/workoutPage.png?raw=true) | ![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/historyPage.png?raw=true)
+
+End Page | BMI Page | BMI Page |
+--- | --- | --- | 
+![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/endPage.png?raw=true) | ![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/bmiPage1.png?raw=true) | ![](https://github.com/KaranJadaun/MinifyWorkout/blob/master/assets/bmiPage2.png?raw=true) 
+
 ## Current pending work
 ```
 Adding some more exercises
